@@ -1,4 +1,4 @@
-site_name: Streamlit Chat
+site_name: Chatty Bot
 theme:
   name: material
   
@@ -21,5 +21,4 @@ nav:
   - Create a Component: creating-streamlit-component.md 
 
 repo_url: https://github.com/AI-Yash/st-chat
-repo_name: Streamlit Chat
-edit_uri: ''
+repo_name: belarmino_finalproject_IS
