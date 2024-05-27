@@ -4,14 +4,12 @@ with open('README.md') as readme_file:
     readme = readme_file.read()
 
 setuptools.setup(
-    name="streamlit-chat",
+    name="Chatty-Bot",
     version="0.1.1",
-    author="Yash Pravin Pawar, Yash Vardhan Kapil",
-    author_email="yashpawarp@gmail.com",
+    author="Rizalie S. Belarmino",
     description="A streamlit component, to make chatbots",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/AI-Yash/st-chat",
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[
